@@ -1,4 +1,5 @@
 const endDate = new Date('9 May 2024');
+
 const weeksel = document.getElementById('w')
 const daysel = document.getElementById('d');
 const hoursel = document.getElementById('h');
