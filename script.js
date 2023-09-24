@@ -1,5 +1,4 @@
-
-const endDate = new Date('9 May 2024');
+const endDate = new Date('24 April 2024');
 
 const weeksel = document.getElementById('w');
 const daysel = document.getElementById('d');
