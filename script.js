@@ -1,4 +1,3 @@
-
 const endDate = new Date('9 May 2024');
 
 const weeksel = document.getElementById('w');
