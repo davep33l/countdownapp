@@ -41,8 +41,7 @@ li {
     align-items: center;
     height: 100vh;
     margin: 50px;
-    background-image: url('bg.jpg');
-    background-size: cover;
+    background: url('bg.jpg') no-repeat center center/cover;
     box-shadow:
         0 0 10px 5px rgba(0, 0, 0, 0.3),
         0 0 10px 5girpx rgba(168, 139, 235, 0.3) inset;
